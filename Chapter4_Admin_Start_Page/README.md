@@ -1,5 +1,5 @@
 ## 需要了解的快捷键:
-### 查文件夹或文件: 按2下shift 查找BaseModel
+### 查文件夹或文件: 按两下shift 从项目根目录开始全局搜索查找BaseModel
 ### 全局搜索代码: command+shift+f
 ### 代码格式美化: command+option+L
 ### 查找: command+f

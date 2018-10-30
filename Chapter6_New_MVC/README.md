@@ -1,8 +1,8 @@
 # 新建项目
 
 ## 新建表
-#####到终端里执行建表命令:
-#####项目规则: 表名都要是复数
+##### 到终端里执行建表命令:
+##### 项目规则: 表名都要是复数
     
     php cli.php db generate {{建表语句}}
     php cli.php db generate create_table_users
@@ -17,13 +17,13 @@
 这时刷新数据库连接可以看到新表
 ![](imgs/2.png) 
     
-#####相应的 所有的数据库修改都是这样执行命令 比如修改表
+##### 相应的 所有的数据库修改都是这样执行命令 比如修改表
 
     php cli.php db generate alter_table_users_add_column_real_name
     
 ![](imgs/3.png)
 
-##新建controller model views
+## 新建controller model views
 
 ### 书写格式
 项目的mvc引用的大小驼峰和单复数书写格式是:
